@@ -10,7 +10,8 @@ Advanced real estate market research platform with machine learning predictions,
 - **Session Persistence**: Data saved between sessions
 
 ## 📊 Sample Output
-[Include screenshots of your dashboards here]
+<img width="733" height="953" alt="image" src="https://github.com/user-attachments/assets/79df8fe2-2c8f-444e-95aa-bbd08d3d202f" />
+
 
 ## 🛠️ Tech Stack
 - Python 3.8+
