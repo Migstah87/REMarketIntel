@@ -6,7 +6,7 @@ Advanced real estate market research platform with machine learning predictions,
 - **Investment Scoring System**: Weighted analysis across 5 key factors
 - **ML Predictions**: Random Forest model for market growth forecasting  
 - **Interactive Dashboards**: Professional visualization with 7+ chart types
-- **Multi-Market Analysis**: Batch processing and comparative analysis
+- **Multi-Market Analysis**: Batch processing and comparative analysis including risk considerations
 - **Session Persistence**: Data saved between sessions
 
 ## 📊 Sample Output
